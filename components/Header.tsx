@@ -73,13 +73,13 @@ export default function Header() {
         <div className="flex items-center space-x-3">
           <Link
             href="/login"
-            className="rounded-full bg-[#c8c6b8] text-[#212517] px-5 py-2"
+            className="rounded-full bg-[#B8B7A6] text-[#fff] px-6 py-3"
           >
             Log In
           </Link>
           <Link
             href="/get-started"
-            className="rounded-full bg-[#3c7d3c] text-white px-5 py-2"
+            className="rounded-full bg-[#558C4B] text-white px-6 py-3"
           >
             Get Started
           </Link>

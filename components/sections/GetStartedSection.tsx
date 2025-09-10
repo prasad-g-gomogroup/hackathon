@@ -98,7 +98,7 @@ export default function GetStartedSection({
         </div>
       )}
     </section>
-    <section className="relative overflow-hidden bg-[#ffffff] h-40 w-full"></section>
+    {/* <section className="relative overflow-hidden bg-[#ffffff] h-40 w-full"></section> */}
     </>
   );
 }

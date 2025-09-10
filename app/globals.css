@@ -20,6 +20,19 @@
   }
 }
 
+@keyframes logo-scroll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+[class*="animation:logo-scroll"]{
+  animation-name: logo-scroll;
+  animation-duration: var(--duration, 30000ms);
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes float {
+  0%, 100% { transform: translate(-50%, -50%) translateY(0); }
+  50%      { transform: translate(-50%, -50%) translateY(-20px); }
+}
+
 body {
   background: var(--background);
   color: var(--foreground);

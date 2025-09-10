@@ -4,6 +4,9 @@ import Banner from "@/components/sections/Banner";
 import LeftImageContent from "@/components/sections/LeftImageContent";
 import RightImageContent from "@/components/sections/RightImageContent";
 import GetStartedSection from "@/components/sections/GetStartedSection";
+import PartnersSection from "@/components/sections/PartnersSection";
+import WhatWeDo from "@/components/sections/WhatWeDo";
+import IntegrationsSection from "@/components/sections/IntegrationsSection";
 
 type BannerBlock = {
   acf_fc_layout: "banner";
@@ -55,7 +58,48 @@ type GetStartedBlock = {
   };
 };
 
-type Section = BannerBlock | LeftImageContentBlock | RightImageContentBlock | GetStartedBlock;
+type PartnersBlock = {
+  acf_fc_layout: "partners_section";
+  images?: Array<
+    string | { url?: string; alt?: string; sizes?: Record<string, string>; title?: string }
+  >;
+  // Optional if you add fields later:
+  label?: string;
+  title?: string;
+};
+
+type WhatWeDoBlock = {
+  acf_fc_layout: "what_we_do";
+  section_tag?: string;
+  section_title?: string;
+  section_image?: string | { url?: string; alt?: string; sizes?: Record<string, string>; title?: string };
+  banner_button_text?: string;
+  banner_button_link?: string;
+  cont_title1?: string; cont_sec1?: string;
+  cont_title2?: string; cont_sec2?: string;
+  cont_title3?: string; cont_sec3?: string;
+  cont_title4?: string; cont_sec4?: string;
+  cont_title5?: string; cont_sec5?: string;
+  cont_title6?: string; cont_sec6?: string;
+};
+
+type IntegrationsBlock = {
+  acf_fc_layout: "integrations_section";
+  section_tag?: string;
+  section_title?: string;
+  button_text?: string;
+  button_link?: string;
+  images?: Array<string | { url?: string; alt?: string; title?: string; sizes?: Record<string,string> }>;
+};
+
+type Section =
+  | BannerBlock
+  | LeftImageContentBlock
+  | RightImageContentBlock
+  | GetStartedBlock
+  | PartnersBlock
+  | WhatWeDoBlock;
+
 
 export default function PageBuilder({ sections }: { sections: Section[] }) {
   if (!sections?.length) return null;
@@ -72,6 +116,12 @@ export default function PageBuilder({ sections }: { sections: Section[] }) {
             return <RightImageContent key={i} block={block} />;
           case "get_started_section": 
             return <GetStartedSection key={i} block={block} />;
+          case "partners_section":
+            return <PartnersSection key={i} block={block} />;
+          case "what_we_do":
+            return <WhatWeDo key={i} block={block} />;
+          case "integrations_section":
+            return <IntegrationsSection key={i} block={block} />;
           default:
             return null;
         }
