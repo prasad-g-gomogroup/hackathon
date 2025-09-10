@@ -16,8 +16,7 @@ export default function Header() {
       <div className="max-w-7xl mx-auto flex items-center justify-between py-4 px-6">
         {/* Logo */}
         <Link href="/" className="flex items-center space-x-2">
-          <img src="/head-logo.svg" alt="Logo" className="h-6 w-auto" />
-          <span className="font-bold text-[#212517]">one platform<br />group</span>
+          <img src="/holid-assets/head-logo.svg" alt="Logo" className="h-10 w-auto" priority="true" />
         </Link>
 
         {/* Nav links */}
