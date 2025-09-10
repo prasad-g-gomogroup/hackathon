@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="297" height="168" viewBox="0 0 297 168">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_708" data-name="Rectangle 708" width="297" height="168" rx="12" transform="translate(10 10)" fill="#e3e4e4"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_7" data-name="Mask Group 7" transform="translate(-10 -10)" clip-path="url(#clip-path)">
+    <g id="Group_3317" data-name="Group 3317" transform="translate(-122.094 -2689.101)">
+      <rect id="Rectangle_701" data-name="Rectangle 701" width="79.062" height="79.06" rx="39.53" transform="translate(110.692 2718.156) rotate(-45)" fill="#2b351b"/>
+      <rect id="Rectangle_709" data-name="Rectangle 709" width="79.062" height="79.06" rx="39.53" transform="translate(244.977 2792.277) rotate(-45)" fill="#558c4b"/>
+      <rect id="Rectangle_705" data-name="Rectangle 705" width="79.06" height="79.062" rx="39.53" transform="translate(290.688 2701.866) rotate(-45)" fill="#fff"/>
+      <rect id="Rectangle_706" data-name="Rectangle 706" width="79.06" height="79.062" rx="39.53" transform="translate(133.168 2840.675) rotate(-45)" fill="#edd361"/>
+      <rect id="Rectangle_707" data-name="Rectangle 707" width="79.06" height="79.06" rx="39.53" transform="translate(375.523 2813.675) rotate(-45)" fill="#b8b7a6"/>
+    </g>
+  </g>
+</svg>

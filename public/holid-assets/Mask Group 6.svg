@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="297" height="168" viewBox="0 0 297 168">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_695" data-name="Rectangle 695" width="297" height="168" rx="12" transform="translate(10 10)" fill="#e3e4e4"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_6" data-name="Mask Group 6" transform="translate(-10 -10)" clip-path="url(#clip-path)">
+    <g id="Group_3316" data-name="Group 3316" transform="translate(-122.094 -2689.101)">
+      <rect id="Rectangle_690" data-name="Rectangle 690" width="24.062" height="79.062" transform="translate(143.935 2685.094) rotate(-45)" fill="#b8b7a6"/>
+      <rect id="Rectangle_691" data-name="Rectangle 691" width="79.062" height="25.062" transform="translate(208.688 2776.156) rotate(-45)" fill="#2b351b"/>
+      <rect id="Rectangle_696" data-name="Rectangle 696" width="77.048" height="27.27" transform="translate(299.578 2900.549) rotate(-45)" fill="#b8b7a6"/>
+      <rect id="Rectangle_692" data-name="Rectangle 692" width="79.062" height="24.993" transform="translate(133.692 2865.277) rotate(-45)" fill="#558c4b"/>
+      <rect id="Rectangle_693" data-name="Rectangle 693" width="27.062" height="79.062" transform="translate(365.729 2805.199) rotate(-45)" fill="#558c4b"/>
+      <rect id="Rectangle_698" data-name="Rectangle 698" width="27.062" height="79.062" transform="translate(290.688 2701.866) rotate(-45)" fill="#fff"/>
+      <rect id="Rectangle_699" data-name="Rectangle 699" width="27.062" height="79.062" transform="translate(253.168 2779.866) rotate(-45)" fill="#edd361"/>
+      <rect id="Rectangle_694" data-name="Rectangle 694" width="86.513" height="26.907" transform="translate(379.523 2746.269) rotate(-45)" fill="#b8b7a6"/>
+    </g>
+  </g>
+</svg>

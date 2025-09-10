@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125" height="32" viewBox="0 0 125 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_585" data-name="Rectangle 585" width="11" height="11" transform="translate(0 -0.495)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3263" data-name="Group 3263" transform="translate(-11856 -2215)">
+    <g id="Group_3070" data-name="Group 3070" transform="translate(11856 2221.564)">
+      <path id="Path_461" data-name="Path 461" d="M11867.592,2257v10.975h-11.1Z" transform="translate(-11856.41 -2256.996)" fill="#fff"/>
+      <circle id="Ellipse_72" data-name="Ellipse 72" cx="5.5" cy="5.5" r="5.5" transform="translate(13 0.436)" fill="#fff"/>
+      <rect id="Rectangle_583" data-name="Rectangle 583" width="11" height="11" transform="translate(13 12.436)" fill="#fff"/>
+      <g id="Group_3069" data-name="Group 3069" transform="translate(0 12.931)">
+        <g id="Group_3068" data-name="Group 3068" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <path id="Path_462" data-name="Path 462" d="M11.1,0V5.549A5.549,5.549,0,1,1,5.549,0Z" transform="translate(0 -0.091)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <text id="one" transform="translate(11886 2229)" fill="#fff" font-size="14" font-family="Inter" font-weight="700" letter-spacing="0.025em"><tspan x="0" y="0">one</tspan></text>
+    <text id="platform" transform="translate(11920 2229)" fill="#fff" font-size="14" font-family="Inter" font-weight="700" letter-spacing="0.025em"><tspan x="0" y="0">platform</tspan></text>
+    <text id="group" transform="translate(11886 2244)" fill="#fff" font-size="14" font-family="Inter" font-weight="700" letter-spacing="0.03em"><tspan x="0" y="0">group</tspan></text>
+  </g>
+</svg>

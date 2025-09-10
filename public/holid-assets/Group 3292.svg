@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="290" viewBox="0 0 260 290">
+  <g id="Group_3292" data-name="Group 3292" transform="translate(-80 -537)">
+    <g id="Rectangle_608" data-name="Rectangle 608" transform="translate(80 537)" fill="#fff" stroke="#e2e6df" stroke-width="1">
+      <rect width="260" height="290" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="259" height="289" rx="7.5" fill="none"/>
+    </g>
+    <text id="Overall_stats" data-name="Overall stats" transform="translate(106 576)" font-size="14" font-family="Archivo" font-weight="500"><tspan x="0" y="0">Overall stats</tspan></text>
+    <text id="_40K" data-name="40K" transform="translate(106 622)" font-size="32" font-family="Archivo" font-weight="600"><tspan x="0" y="0">40K</tspan></text>
+    <text id="Total_clicks" data-name="Total clicks" transform="translate(174 621)" font-size="12" font-family="Archivo"><tspan x="0" y="0">Total clicks</tspan></text>
+    <g id="Group_3119" data-name="Group 3119">
+      <rect id="Rectangle_612" data-name="Rectangle 612" width="73" height="5" transform="translate(106 642)" fill="#edd363"/>
+      <rect id="Rectangle_613" data-name="Rectangle 613" width="53" height="5" transform="translate(179 642)" fill="#2b351b"/>
+      <rect id="Rectangle_614" data-name="Rectangle 614" width="85" height="5" transform="translate(232 642)" fill="#dfe3d4"/>
+    </g>
+    <rect id="Rectangle_615" data-name="Rectangle 615" width="16" height="16" transform="translate(106 673)" fill="#edd363"/>
+    <rect id="Rectangle_616" data-name="Rectangle 616" width="16" height="16" transform="translate(106 703)" fill="#2b351b"/>
+    <rect id="Rectangle_617" data-name="Rectangle 617" width="16" height="16" transform="translate(106 733)" fill="#dfe3d4"/>
+    <text id="From_desktop" data-name="From desktop" transform="translate(134 685)" fill="#8e8d80" font-size="12" font-family="Archivo"><tspan x="0" y="0">From desktop</tspan></text>
+    <text id="From_mobile" data-name="From mobile" transform="translate(134 715)" fill="#8e8d80" font-size="12" font-family="Archivo"><tspan x="0" y="0">From mobile</tspan></text>
+    <text id="From_tablet" data-name="From tablet" transform="translate(134 745)" fill="#8e8d80" font-size="12" font-family="Archivo"><tspan x="0" y="0">From tablet</tspan></text>
+    <g id="Group_3120" data-name="Group 3120" transform="translate(-1117.998 702.096)">
+      <rect id="Rectangle_588" data-name="Rectangle 588" width="86" height="28" rx="4" transform="translate(1223.998 66.904)" fill="#2b351b"/>
+      <g id="Group_3110" data-name="Group 3110" transform="translate(1210.314 74.952)">
+        <text id="View_report" data-name="View report" transform="translate(25.685 -0.048)" fill="#fff" font-size="10" font-family="Archivo"><tspan x="2" y="9">View report</tspan></text>
+        <g id="noun-right-arrow-3465431" transform="translate(82.506 3.753)">
+          <g id="Group_3109" data-name="Group 3109">
+            <path id="Path_471" data-name="Path 471" d="M28.348,34.078l.318.318,2.2-2.2-2.2-2.2-.318.318L30,31.972H25v.45h5Z" transform="translate(-25 -29.998)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

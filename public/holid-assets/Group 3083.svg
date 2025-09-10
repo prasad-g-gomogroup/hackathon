@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.15" height="15.598" viewBox="0 0 21.15 15.598">
+  <g id="Group_3083" data-name="Group 3083" transform="translate(-854 -166)">
+    <path id="Path_535" data-name="Path 535" d="M1.058,0H20.093A1.058,1.058,0,0,1,21.15,1.058V14.541A1.058,1.058,0,0,1,20.093,15.6H1.058A1.058,1.058,0,0,1,0,14.541V1.058A1.058,1.058,0,0,1,1.058,0Z" transform="translate(854 166)" fill="#edd363"/>
+    <path id="Path_470" data-name="Path 470" d="M-693.048,2144.046h-1.815a.264.264,0,0,1-.264-.264.264.264,0,0,1,.264-.264h1.815a.264.264,0,0,1,.264.264A.264.264,0,0,1-693.048,2144.046Z" transform="translate(1558.783 -1976.606)" fill="#b8b7a6"/>
+    <g id="Group_2859" data-name="Group 2859" transform="translate(856.379 170.759)" opacity="0.7">
+      <path id="Path_532" data-name="Path 532" d="M.264,0h8.46a.264.264,0,0,1,.264.264V6.874a.264.264,0,0,1-.264.264H.264A.264.264,0,0,1,0,6.874V.264A.264.264,0,0,1,.264,0Z" transform="translate(0 0)" fill="#2b351b"/>
+      <path id="Path_534" data-name="Path 534" d="M.264,0H15.6a.264.264,0,0,1,.264.264V.529A.264.264,0,0,1,15.6.793H.264A.264.264,0,0,1,0,.529V.264A.264.264,0,0,1,.264,0Z" transform="translate(0 7.403)" fill="#2b351b"/>
+      <path id="Path_533" data-name="Path 533" d="M.264,0H6.345a.264.264,0,0,1,.264.264V6.874a.264.264,0,0,1-.264.264H.264A.264.264,0,0,1,0,6.874V.264A.264.264,0,0,1,.264,0Z" transform="translate(9.253 0)" fill="#2b351b"/>
+    </g>
+  </g>
+</svg>
